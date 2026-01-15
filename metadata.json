@@ -1,0 +1,7 @@
+{
+  "name": "ASAD#underwould",
+  "description": "An ambitious GTA-inspired open-world simulator with AI-driven missions, procedural 3D cityscapes, and an interactive HUD system powered by Gemini Pro.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
